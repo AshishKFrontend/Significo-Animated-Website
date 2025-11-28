@@ -52,7 +52,7 @@ This project is open-source and available under the **MIT License**.
 
 * **GitHub:** [Ashishcodewala](https://github.com/Ashishcodewala) (Linked in the footer)
 * **YouTube:** [@msoffice-v3q](https://youtube.com/@msoffice-v3q?si=cFITUkNUEYYI-MVU) (Linked in the footer)
-* **Link:** [Website Link](https://ashishcodewala.github.io/Significo-Animated-Website/) (Linked in the footer)
+* **Link:** [Website Link](https://ashishkfrontend.github.io/Significo-Animated-Website/) (Linked in the footer)
 <img width="1584" height="759" alt="Screenshot 2025-11-28 151635" src="https://github.com/user-attachments/assets/ad04aff6-818e-4118-811c-6ce3a28a9cff" />
 <img width="1582" height="756" alt="Screenshot 2025-11-28 151647" src="https://github.com/user-attachments/assets/8d6ba12f-19b3-44ef-93c6-b09baa7e836f" />
 <img width="1583" height="765" alt="Screenshot 2025-11-28 151700" src="https://github.com/user-attachments/assets/d606a1ec-1aed-440a-8a09-78ee6d595ca5" />
